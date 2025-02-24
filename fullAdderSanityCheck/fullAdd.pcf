@@ -1,0 +1,12 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Feb 24 22:14:48 2025
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "carry" LOCATE = SITE "P114" LEVEL 1;
+COMP "sum" LOCATE = SITE "P115" LEVEL 1;
+COMP "a" LOCATE = SITE "P132" LEVEL 1;
+COMP "b" LOCATE = SITE "P133" LEVEL 1;
+COMP "c" LOCATE = SITE "P134" LEVEL 1;
+SCHEMATIC END;
+

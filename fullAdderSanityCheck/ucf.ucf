@@ -1,0 +1,7 @@
+NET "carry"           LOC="P114" | IOSTANDARD=LVTTL;                                # C0
+NET "sum"           LOC="P115" | IOSTANDARD=LVTTL;                                # C1
+
+
+NET "a"          LOC="P132" | IOSTANDARD=LVTTL;                                # C13
+NET "b"          LOC="P133" | IOSTANDARD=LVTTL;                                # C14
+NET "c"          LOC="P134" | IOSTANDARD=LVTTL;                                # C15

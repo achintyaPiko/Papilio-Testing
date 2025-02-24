@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/fullAdderSanityCheck/fullAdd.ncd
+OUTFILE=/home/ise/fullAdderSanityCheck/fullAdd.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=/home/ise/fullAdderSanityCheck
+LICENSE=WebPack
+USER_INFO=212917519_0_0_052
